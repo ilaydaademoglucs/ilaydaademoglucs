@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
-<h3 align="center">A passionate software engineer based in Slovenia</h3>
+<h3 align="center">A passionate software engineer based in Slovenia. </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilaydaademoglucs](https://github.com/ilaydaademoglucs)
 
 - 💬 Ask me about **full-stack web development and frontend web apps including frontend frameworks like Vue.js, and Angular**
+- 🚀 Interested in **3D web development. I like creating interactive experiences with Three.js and learning new things about web technologies.**
 
 - 📫 How to reach me: **ademilayda57@gmail.com**
 
