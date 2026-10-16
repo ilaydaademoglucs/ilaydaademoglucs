@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
-<h3 align="center">A passionate software engineer based in Slovenia. </h3>
+<h3 align="center">A passionate software engineer based in Prague </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilaydaademoglucs](https://github.com/ilaydaademoglucs)
 
